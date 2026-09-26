@@ -1,7 +1,3 @@
-## Hi there 👋
-
 <p align="center">
-  <img src="./assets/pilot-cat.gif" alt="Pilot cat" width="320" />
+  <img src="./assets/pilot-cat.gif" alt="Pilot cat" width="100%" />
 </p>
-
-Stack: Golang ...
