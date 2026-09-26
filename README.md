@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/pilot-cat.gif" alt="Pilot cat" width="100%" />
+  <img src="./assets/hello-cat.gif" alt="Hello cat" width="100%" />
 </p>
