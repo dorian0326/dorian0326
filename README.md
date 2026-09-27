@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/hello-cat.gif" alt="Hello cat" width="100%" />
+  <img src="./assets/minion.gif" alt="Minion" width="100%" />
 </p>
